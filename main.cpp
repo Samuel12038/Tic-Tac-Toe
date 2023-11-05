@@ -19,4 +19,7 @@ int main() {
   cout << " " << grid[2][0] << " | " << grid[2][1] << " | " << grid[2][2]
        << "\n";
   cout << "   |   |   \n";
+
+  cout << "bjhbuhj";
+  
 }
